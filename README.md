@@ -25,9 +25,9 @@ Architecture of clasificator:
   Project is done in Tensorflow 2.4
   
   Additional libraries needed are:
-    1. Matplotplib
-    2. numpy
-    3. random
+    1. Matplotplib<br>
+    2. numpy<br>
+    3. random<br>
 
 Also i used tf.datasets api for loading CATS VS DOGS DATASET
 
