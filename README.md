@@ -1,4 +1,4 @@
-# ANTI ATTACK NETWORK\
+# ANTI ATTACK NETWORK
 
 
 Neural network that consist of a convolutional autoencoder, that is used for denoisation of images and filling the missing pixels, and convolutional classificator.
