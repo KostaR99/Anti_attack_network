@@ -24,7 +24,7 @@ Architecture of the classifier network:
   
   Project is done in Tensorflow 2.4
   
-  Additional libraries needed are:
+  Additional libraries needed are:<br>
     1. Matplotplib<br>
     2. numpy<br>
 
